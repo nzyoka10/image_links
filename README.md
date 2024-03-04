@@ -6,7 +6,7 @@ Week two assignment
 Welcome to the Image Links Webpage! This webpage showcases a collection of images related to different topics - technology, nature, and food. Each section is designed to provide an enjoyable browsing experience.
 
 ## Live Link
-You can view the live webpage [here](https://example.com/image_links.html).
+You can view the live webpage [here](https://nzyoka10.github.io/image_links/).
 
 ## Sections
 
